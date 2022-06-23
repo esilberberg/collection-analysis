@@ -4,7 +4,9 @@ import pandas as pd
 # Written by Eric Silberberg (c) 2022  |  ericsilberberg.com
 
 
+# List of call numbers
 df_titles = pd.read_csv('XXXX.csv')
+# Specific topic for range of call numbers. Requires column labeled "Topic" and range is deliminated by "Start" and "Stop" columns
 df_lookup = pd.read_csv('LC-Classification-(XXXX).csv')
 
 # Determine class and series from each call number
