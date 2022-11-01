@@ -1,0 +1,95 @@
+﻿Subseries,Start,Stop,Topic
+L,0,97,Education - Periodicals
+L,98,106,Education - Yearbooks
+L,107,110,Education - Congresses
+L,111,796,Education - Reports
+L,797,898,Education - Exhibitions and museums
+L,899,899,Education - School fairs
+L,900,992,Education - Directories of educational institutions
+LA,0,26,History of education - General
+LA,27,136,History of education - By period
+LA,172,187,History of education - Higher education
+LA,200,399,History of education - United States
+LA,409,2285,History of education - Other regions or countries
+LA,2300,2397,History of education - Biography
+LB,0,46,Theory and Practice - General
+LB,50,886,Theory and Practice - Systems of individual educators and writers
+LB,1024,1049,Theory and Practice - Teaching (principles and practice)
+LB,1050,1091,Theory and Practice - Educational pyschology
+LB,1100,1139,Theory and Practice - Early childhood education
+LB,1140,1140,Theory and Practice - Preschool
+LB,1141,1490,Theory and Practice - Kindergarten
+LB,1500,1602,Theory and Practice - Elementary
+LB,1603,1697,Theory and Practice - Secondary
+LB,1704,2279,Theory and Practice - Education and training of teachers and administrators
+LB,2299,2429,Theory and Practice - Higher education
+LB,2799,2780,Theory and Practice - Educational consultants and consulting
+LB,2801,2830,Theory and Practice - School administration and organization - General
+LB,2831,2831,Theory and Practice - School administration and organization - Administrative personnel
+LB,2832,2845,Theory and Practice - School administration and organization - Teaching personnel
+LB,3010,3044,Theory and Practice - School administration and organization - School management and discipline - General
+LB,3045,3049,Theory and Practice - School administration and organization - School management and discipline - Textbooks
+LB,3050,3061,"Theory and Practice - School administration and organization - School management and discipline - Test, measurements, evaluations, and examinations"
+LB,3200,3326,Theory and Practice - School architecture and equipment
+LB,3400,3496,Theory and Practice - School hygiene and health services
+LB,3497,3500,Theory and Practice - Hygiene in universities and colleges
+LB,3524,3576,Theory and Practice - Special days
+LB,3601,3641,"Theory and Practice - School life, student manners and customs"
+LC,0,14,Special aspects of edu - Forms of edu - General
+LC,15,24,Special aspects of edu - Forms of edu - Conversation and culture
+LC,25,36,Special aspects of edu - Forms of edu - Self education
+LC,37,44,Special aspects of edu - Forms of edu - Home education
+LC,45,46,Special aspects of edu - Forms of edu - Informal education
+LC,47,58,Special aspects of edu - Forms of edu - Private schools
+LC,59,64,Special aspects of edu - Forms of edu - Public schools
+LC,65,67,Special aspects of edu - Economics
+LC,68,70,Special aspects of edu - Demographics
+LC,71,128,Special aspects of edu - Education and the state
+LC,129,140,Special aspects of edu - Compulsory education
+LC,141,148,"Special aspects of edu - Attendance, dropouts"
+LC,149,162,"Special aspects of edu - Literacy, illiteracy"
+LC,164,183,Special aspects of edu - Higher education and the state
+LC,184,188,Special aspects of edu - Taxation
+LC,189,214,Special aspects of edu - Sociology
+LC,215,239,Special aspects of edu - Community and the school
+LC,240,250,"Special aspects of edu - Foundations, endowments, funds"
+LC,251,319,Special aspects of edu - Moral education
+LC,321,360,Special aspects of edu - Religious education
+LC,361,629,Special aspects of edu - Christian education
+LC,700,776,Special aspects of edu - Jewish education
+LC,901,915,Special aspects of edu - Islamic education
+LC,921,930,Special aspects of edu - Buddhist education
+LC,980,1000,Special aspects of edu - Types of education
+LC,1001,1021,Special aspects of edu - Humanistic education
+LC,1022,1024,Special aspects of edu - Computer-assisted education
+LC,1025,1027,Special aspects of edu - Collective education
+LC,1030,1030,Special aspects of edu - Communist education
+LC,1031,1034,Special aspects of edu - Competecy based education
+LC,1035,1035,Special aspects of edu - Basic education
+LC,1036,1036,Special aspects of edu - Community education
+LC,1037,1037,Special aspects of edu - Career education
+LC,1041,1048,Special aspects of edu - Vocational education
+LC,1049,1050,Special aspects of edu - Cooperative education
+LC,1051,1072,Special aspects of edu - Professional education
+LC,1081,1088,Special aspects of edu - Industrial education
+LC,1090,1091,Special aspects of edu - Political education
+LC,1099,1099,Special aspects of edu - Multicultural education
+LC,1200,1203,Special aspects of edu - Inclusive education
+LC,1389,1400,Special aspects of edu - Boys
+LC,1401,2572,Special aspects of edu - Girls
+LC,2574,2586,"Special aspects of edu - Gay, Lesbian, Bisexual"
+LC,2580,2582,Special aspects of edu - Student athletes
+LC,2601,2611,Special aspects of edu - Edu in developing countries
+LC,2630,2638,Special aspects of edu - Asian Americans
+LC,2667,2698,Special aspects of edu - Latin and Hispanic Americans
+LC,2699,2913,Special aspects of edu - Black Americans
+LC,3001,3501,Special aspects of edu - Asians
+LC,3503,3520,Special aspects of edu - Romanies
+LC,3530,3540,Special aspects of edu - Lapps
+LC,3551,3593,Special aspects of edu - Jews
+LC,3701,3740,Special aspects of edu - Immigrants or ethnic and linguistic minorities. Bilingual education
+LC,3745,3747,Special aspects of edu - Children of immigrants
+LC,3950,4807,"Special aspects of edu - Exceptional/Gifted children, special education"
+LC,4812,5160,Special aspects of edu - Other
+LC,5201,6661,"Special aspects of edu - Education extension, adult education"
+LC,6681,6691,Special aspects of edu - Education and travel
