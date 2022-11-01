@@ -3,6 +3,8 @@ A suite of command line tools to analyze the scope and history of [Queens Colleg
 
 - **clean.py** Prepares print collection data for analysis. Requires that the input is an excel file that contain at minimum columns "Title", "Publication_Date", and "Call_Number."
 
+- **reports.py** Tallies the number of titles per topic and year as well as the most recent title acquired per topic per year.
+
 ## Parts of a LC Call Number
 Terminology used to describe parts of [LC Classification](https://www.loc.gov/catdir/cpso/lcco/) in scripts during preparation and analysis.
 
