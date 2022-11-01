@@ -13,3 +13,5 @@ Call Number: LB3013 .S29 2007
 |Class              | Subclass  | Topic Number | Cutter | Year |
 |-------------------|-----------|--------------|--------|------|
 |   L (Education)   |     LB    |     3013     |  .S29  | 2007 |
+
+The *subject* of this book is "Education theory and practice, School management and discipline."
