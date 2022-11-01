@@ -10,6 +10,6 @@ Terminology used to describe parts of [LC Classification](https://www.loc.gov/ca
 
 Call Number: LB3013 .S29 2007
 
-|Series             | Subseries | Class Number | Cutter | Year |
+|Class              | Subclass  | Topic Number | Cutter | Year |
 |-------------------|-----------|--------------|--------|------|
 |   L (Education)   |     LB    |     3013     |  .S29  | 2007 |
